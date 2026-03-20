@@ -1,5 +1,3 @@
-# miniguia-blue-team-notebooklm
-
 # 🛡️ Miniguia: Fundamentos de Cibersegurança (Onde tudo começa)
 
 ## 🎯 Contexto e Objetivos
